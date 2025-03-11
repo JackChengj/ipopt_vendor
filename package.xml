@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>ipopt_vendor</name>
+  <version>1.0.0</version>
+  <description>Vendor package for IPOPT</description>
+  <maintainer email="jie.cheng@ubtrobot.com">jie.cheng</maintainer>
+  <license>BSD</license>
+  <depend>ament_cmake</depend>
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

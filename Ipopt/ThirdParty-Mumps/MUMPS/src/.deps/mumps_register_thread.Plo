@@ -1,0 +1,3 @@
+MUMPS/src/mumps_register_thread.lo: MUMPS/src/mumps_register_thread.c \
+ /usr/include/stdc-predef.h
+/usr/include/stdc-predef.h:

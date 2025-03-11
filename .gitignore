@@ -1,0 +1,28 @@
+# Ignore build directories
+build/
+bin/
+install/
+log/
+lib/
+obj/
+
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
